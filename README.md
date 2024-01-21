@@ -10,23 +10,17 @@
     A simple and fast program to create unflagged discord accounts/tokens automatically (<b> created by me </b>)
     <br />
     <br />
-    <a href="https://discord.vast.sh/">💬 Discord</a>
-    ·
-    <a href="https://github.com/imvast/Discord-Account-Creator#-changelog">📜 ChangeLog</a>
-    ·
-    <a href="https://github.com/imvast/Discord-Account-Creator/issues">⚠️ Report Bug</a>
-    ·
-    <a href="https://github.com/imvast/Discord-Account-Creator/issues">💡 Request Feature</a>
+    <a href="http://dsc.gg/vastcorp">💬 Discord</a> 
   </p>
 </div>
 
 ---
 
 <h3>
-publish date: 6/20/2023
+publish date: 1/21/2024
 
 this version is patched.
-you can purchase working version @ https://shop.vast.sh
+you can purchase working version @ https://vastcorp.mysellix.io/
 </h3>
 
 ---
@@ -61,7 +55,7 @@ you can purchase working version @ https://shop.vast.sh
 
 ### 🚀 Milestones
 
-- NOT GIVING SUPPORT NOR CUSTOM UPDATES | PURCHASE @ https://shop.vast.sh FOR LIFETIME UPDATES AND BETTER VERSION
+- NOT GIVING SUPPORT NOR CUSTOM UPDATES | PURCHASE @ https://vastcorp.mysellix.io/ FOR LIFETIME UPDATES AND BETTER VERSION
 
 ---
 
@@ -69,14 +63,14 @@ you can purchase working version @ https://shop.vast.sh
 
 - I am not responsible for anything that may happen, such as, API Blocking, Account Termination, etc.
 - This **may** slow down your wifi and/or host computer
-- This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-Account-Creator/issues/new/choose)
+- This was a quick project that was made for fun
 
 ---
 
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 4/9/2023
+v0.0.1 ⋮ 1/21/2024
 ! Initial release
 ```
 
